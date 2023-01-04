@@ -23,7 +23,9 @@ ul{
 .photo1{
     width: 100%;
     height: 613px;
-    margin-top: 60px;
+    margin-top: 90px;
+    margin: 0 auto;
+    background-image: url(../სლაიდერი3.png);
 }
 .first{
     width: 100%;
@@ -36,7 +38,7 @@ ul{
     flex-wrap: wrap;
     justify-content: space-between;
     align-content: center;
-    /* gap: 16px; */
+    
 }
 
 .card{
