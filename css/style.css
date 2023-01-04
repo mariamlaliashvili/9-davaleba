@@ -1,0 +1,27 @@
+.conteiner{
+    max-width: 1366px;
+    width: 100%;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+    height: 150px;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width:122px ;
+    height: 95px;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+}
+.photo1{
+    width: 100%;
+    height: 633px;
+    margin-top: 60px;
+}
