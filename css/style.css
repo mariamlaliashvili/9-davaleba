@@ -74,9 +74,34 @@ img{
 }
 footer{
     width: 100%;
-    height: 222px;
+    height: 207px;
+    background-color:#2e2e2e;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40px;
+
 }
 .ftphoto{
     width: 122px;
     height: 95;
+    color: white;
+   
+}
+.informacia{
+    width: 123px;
+    height: 56px;
+}
+.misamarti{
+    width: 238px;
+    height: 37px;
+}
+.icon{
+    width: 122px;
+    height: 22px;
+}
+.fa-facebook{
+    width: 44px;
+    height: 44px;
 }
